@@ -7,20 +7,20 @@ My strength lies in bridging broad knowledge (Horizontal Scanning) with deep, pr
 ### ⚙️ Core Expertise & Toolkit
 | Focus Area | Key Skills | Evidence |
 | :--- | :--- | :--- |
-| **AI Governance & Research** | Ethical AI, Cognitive Modeling, Policy-as-Code, LLM Orchestration | **Architect** (Private Repo, See Docs) |
-| **Resilience & MLOps** | Python, FastAPI, Linux, Docker, SQLAlchemy, CI/CD | **Communication Agent** |
-| **Data & Systems** | NetworkX, TypeScript, Zabbix, Bash, Deterministic Pipelines | **NeuroTrace**|
+| **AI Governance & Research** | Ethical AI, Cognitive Modeling, Policy-as-Code, LLM Orchestration | [**Architect**](https://www.plainchaos.me/projects/architect) (Private Repo, See Docs) |
+| **Resilience & MLOps** | Python, FastAPI, Linux, Docker, SQLAlchemy, CI/CD | [**Communication Agent**](https://www.plainchaos.me/projects/communication-agent) |
+| **Data & Systems** | NetworkX, Numpy, TypeScript, Zabbix, Bash, Deterministic Pipelines | [**NeuroTrace**](https://www.plainchaos.me/projects/neurotrace)|
 
 ### 🚀 Featured Repositories (Code & Blueprints)
 *These repositories showcase my active work and architectural designs.*
 | Repository | Status | Key Demonstration |
 | :--- | :--- | :--- |
-| **[NeuroTrace]** | **Public** | **Cognitive AI Analytics:** Deterministic framework for graph-based AI behavior analysis. |
-| **[Communication-Agent]** | **Public** | **Stateful Agent:** Production-ready backend with FastAPI, SQLAlchemy, and secure I/O adapters. |
-| **[architect]** | **Private** | **Auditable Governance:** Design blueprint and documentation for the Policy-as-Code Gateway. |
-| **[md-grid-engine]** | **Private** | **Systems Ownership:** Custom MDX engine and UI component architecture for visualizing complex traces. |
+| **[NeuroTrace](https://github.com/plainchaos/NeuroTrace)** | **Public** | **Cognitive AI Analytics:** Deterministic framework for graph-based AI behavior analysis. |
+| **[Communication-Agent](https://github.com/plainchaos/Communication-Agent)** | **Public** | **Stateful Agent:** Production-ready backend with FastAPI, SQLAlchemy, and secure I/O adapters. |
+| **[architect](https://www.plainchaos.me/projects/architect)** | **Private** | **Auditable Governance:** Design blueprint and documentation for the Policy-as-Code Gateway. |
+| **[md-grid-engine](https://www.plainchaos.me/projects/md-grid-engine)** | **Private** | **Systems Ownership:** Custom MDX engine and UI component architecture for visualizing complex traces. |
 
 ### 🔗 Connect
-* 🌐 **Portfolio/Research:** [https://www.plainchaos.me (Full Case Studies and Papers)
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/hamid-jafari-zadeh/]
-* 📧 **Contact:** [hmjz@plainchaos.me]
+* 🌐 [**Portfolio/Research**](https://www.plainchaos.me) (Full Case Studies and Papers)
+* 💼 [**LinkedIn**](https://www.linkedin.com/in/hamid-jafari-zadeh/)
+* 📧 [**Contact**](hmjz@plainchaos.me)

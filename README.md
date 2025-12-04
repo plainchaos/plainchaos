@@ -17,6 +17,7 @@ My strength lies in bridging broad knowledge (Horizontal Scanning) with deep, pr
 | :--- | :--- | :--- |
 | **[NeuroTrace](https://github.com/plainchaos/NeuroTrace)** | **Public** | **Cognitive AI Analytics:** Deterministic framework for graph-based AI behavior analysis. |
 | **[Communication-Agent](https://github.com/plainchaos/Communication-Agent)** | **Public** | **Stateful Agent:** Production-ready backend with FastAPI, SQLAlchemy, and secure I/O adapters. |
+| **[writing_agent](https://github.com/plainchaos/writing_agent)** | **Public** | **Tone-Aware Writing:** Web app + API that turns rough text into clear, respectful, concise writing with presets, audience-based tone controls, and production-lean observability. |
 | **[architect](https://www.plainchaos.me/projects/architect)** | **Private** | **Auditable Governance:** Design blueprint and documentation for the Policy-as-Code Gateway. |
 | **[md-grid-engine](https://www.plainchaos.me/projects/md-grid-engine)** | **Private** | **Systems Ownership:** Custom MDX engine and UI component architecture for visualizing complex traces. |
 

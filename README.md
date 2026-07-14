@@ -1,5 +1,5 @@
 # 👋 Hamid Jafari-Zadeh | AI Systems Architect
-**Designing auditable, memory-enabled AI on a foundation of 20 years in resilient systems.**
+**Designing auditable, memory-enabled AI on a foundation of 15+ years in resilient systems.**
 ---
 ### 🧠 My Architectural Philosophy: The Two-Gear System
 My strength lies in bridging broad knowledge (Horizontal Scanning) with deep, production-ready execution (Vertical Application). I approach every project with this two-gear methodology to ensure speed, resilience, and architectural integrity.
